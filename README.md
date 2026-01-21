@@ -151,8 +151,8 @@ public/
 ##  Autor
 
 Desenvolvido por **Joel Malamba**  
-Email: seuemail@email.com  
-GitHub: https://github.com/seu-usuario  
+Email: joeybraen45@gmail.com  
+GitHub: https://github.com/JoelAM360  
 
 ---
 
